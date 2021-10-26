@@ -1,0 +1,32 @@
+h2 {
+  font-size: 50px;
+  margin-top: 0;
+  margin-bottom: 20px;
+  align-items: center;
+}
+
+button {
+  border: none;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  color: white;
+  font-weight: bold;
+  width: 200px;
+  margin-bottom: 5px;
+  border-radius: 5px;
+}
+
+increment-btn {
+  background: darkred;
+}
+
+save-btn {
+  background: darkseagreen;
+}
+
+div {
+  margin: 50px 600px 200px;
+  background-color: yellowgreen;
+  border-radius: 10px;
+  text-align: center;
+}
